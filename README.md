@@ -6,7 +6,7 @@
 
 ## **Навыки и технологии**
 
-Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello,
+- Jira,- qase.io,- SQL, Postman,Fiddler, Swagger, Trello,
 SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 ## **Проекты:**
@@ -49,7 +49,7 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 Задача №4 На основе результатов тест-рана дополнить отчет о тестировании
 
-Ссылка на проект: [Проект Кузина Е.С.] (https://lizzi2002.atlassian.net/wiki/spaces/~638b56e0489de2f7f46718c9/pages/1441793/1+2)
+Ссылка на проект: https://lizzi2002.atlassian.net/wiki/spaces/~638b56e0489de2f7f46718c9/pages/1441793/1+2
 
 ## **Отчетность по тестированию:** 
 
@@ -57,8 +57,8 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 ## **Контактная информация:**
 
-Email: kuzina.elkzn.yandex.ru
-Telegram: @liza_kuzina_class
+> Email: kuzina.elkzn.yandex.ru
+>> Telegram: @liza_kuzina_class
 
 ![я](https://github.com/KuzinaElizaveta/portfolio.md/assets/138160179/8bb1d07e-b550-4607-8d98-8843b4104d16)
 
